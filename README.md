@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Site
 
-The site is deployed in netify. You can find the live link [here] (https://keen-boba-3f8fdd.netlify.app/).
+The site is deployed in netify. You can find the live link here: [https://keen-boba-3f8fdd.netlify.app/](https://keen-boba-3f8fdd.netlify.app/).
 
 ## Available Scripts
 
