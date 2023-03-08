@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Site
+
+The site is deployed in netify. You can find the live link [here] (https://keen-boba-3f8fdd.netlify.app/).
+
 ## Available Scripts
 
 In the project directory, you can run:
